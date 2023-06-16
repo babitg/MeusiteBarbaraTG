@@ -1,0 +1,177 @@
+
+.barra-superior {
+    background-color: blue;
+    background-image: "logo_moodle.jpg.png";
+    color: white;
+    padding: 20px;
+    text-align: right;
+}
+
+.menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.menu li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #fff;
+    font-family: Arial;
+    font-size: 16px;
+}
+
+.logo img {
+    width: 40px;     
+    height: auto;
+    float: left;
+}
+
+.Nomedosite {
+    height: auto;
+    float: left;
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.bory{
+    background-color: beige;
+}
+  
+.container1 { 
+    height: 80%;  
+    width: 100%;
+    background-color: beige;
+}
+
+.imagem1 img {
+    width: 1334px;
+    height: 410px;
+}
+
+.texto {
+    position: absolute;
+    top: 30%;
+    transform: translate( 10%, -10%);
+    background-color: rgba(0, 0, 0, 0.3);
+    color: #fff;
+    padding: 25px;
+    text-align: justify;
+    font-family: Arial;
+    font-size: 20px;
+
+}
+
+.container2 {
+    display: grid;
+    grid-auto-flow: column;
+    background-color: beige;
+}
+  
+.título1 {
+    margin: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: blue;
+    text-align: justify;
+    font-family: Arial;
+    font-size: 16px;
+}
+  
+.video {
+    margin: 30%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.lista {
+    margin: 15;
+    padding: 15;
+    color: blue;
+}
+.meu-botao {
+    background-color: blue;
+    color: white;
+    border: blue;
+    position: absolute; top: 115%; right: 41%; transform: translate(-50%, -50%);
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.container3 {
+    display: grid;
+    grid-auto-flow: column;
+    color: beige;
+}
+  
+.coluna1 {
+    background-color: beige;
+    text-align: center;
+    color: blue;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+.coluna2 {
+    background-color: beige;
+    text-align: center;
+    color: blue;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+.coluna3 {
+    background-color: beige;
+    text-align: center;
+    color: blue;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+.container4 {
+    display: grid;
+    grid-auto-flow: column;
+    color: beige;
+}
+
+.apresentacao1 {
+    background-color: beige;
+    text-align: center;
+    color: blue;
+    border: blue;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+.apresentacao2 {
+    background-color: beige;
+    text-align: center;
+    color: blue;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+.local1 {
+    background-color: beige;
+    text-align: left;
+    color: blue;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+.footer {
+    background-color: #f1f1f1;
+    padding: 30px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 12px;
+}
